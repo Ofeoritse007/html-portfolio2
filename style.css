@@ -41,7 +41,7 @@ header{
 .hero{
     height: 100vh;
     background:
-    url(./images/image1.jpeg);
+    url(/image1.jpeg);
     background-size: cover;
     background-position: center;
     display: flex;
@@ -195,7 +195,7 @@ header{
 
 .today-menu{
     background:black;
-    background-image: url(./images/menu.jpg);
+    background-image: url(/menu.jpg);
     color:white;
     padding:100px 15%;
 }
@@ -307,7 +307,7 @@ quote{
 }
 
 .subscribe{
-    background-image: url(./images/subscribeimg.jpg);
+    background-image: url(/subscribeimg.jpg);
     text-align:center;
     padding:100px 8%;
 }
